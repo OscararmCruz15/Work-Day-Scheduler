@@ -1,3 +1,5 @@
+
+
 // Grab current day and hour from moment
 // Color the blocks based on time
 // Loop through the time blocks
